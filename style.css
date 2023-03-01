@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+#lingkaran{
+    width: 35%;
+ 
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(127, 143, 114);
+    flex-direction: column;
+    justify-content: center;
+}
+input{
+    border: 0%;
+    width: 80%;
+    height: 80%;
+    padding: 8px;
+    border-radius: 30px;
+}
+body{
+    background-color: rgb(209, 174, 129);
+}
+button{
+    border-radius: 15px;
+    justify-content: center;
+    border: 0%;
+    width: 10%;
+    height: 850%;
+    padding: 8px;
+   background-color: rgb(146, 146, 86);
+   }
